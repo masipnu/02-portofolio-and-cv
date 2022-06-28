@@ -1,0 +1,4 @@
+Ini adalah file CV
+Perusahaan 1 : CV. Medika Persada
+Perusahaan 2 : CV. Asfa Solution
+Perusahaan 3 : PT. Gramedia Book
